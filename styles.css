@@ -1,0 +1,23 @@
+#container{
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#container button{
+    flex: 1;
+    height: 100%;
+    width: 100px;
+    background-color: ghostwhite;
+}
+input{
+    width: 392px;
+    height: 80px;
+    font-size: xx-large;
+    background-color: blanchedalmond;
+}
+#container #clear{
+    background-color: rgb(161, 67, 67);
+}
+
